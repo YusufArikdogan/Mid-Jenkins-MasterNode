@@ -46,5 +46,4 @@ This guide will walk you through setting up a Jenkins server for deploying an EK
 
 The process typically takes about 15 minutes. During this time, the EKS cluster and nodes are created using CloudFormation. Once we see success in the output, we can proceed to the second stage.
 
-Clone the necessary resources from our repository to your local environment. Then, create your own private repository and push the resources there after making any updates. After creating the repository, you may need to make a few changes locally. For further  
-instructions, you can refer to the ReadMe file in the Mid-EKS-Cluster-Deployment repository.    
+Clone the necessary resources from our repository to your local environment. Then, create your own private repository and push the resources there after making any updates. After creating the repository, you may need to make a few changes locally. For further instructions, you can refer to the ReadMe file in the Mid-EKS-Cluster-Deployment repository.
